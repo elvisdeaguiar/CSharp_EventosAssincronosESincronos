@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29324.140
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp_EventosAssincronosESincronos", "CSharp_EventosAssincronosESincronos\CSharp_EventosAssincronosESincronos.csproj", "{9DE926DB-0A5F-4CA5-8202-84936DE847EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9DE926DB-0A5F-4CA5-8202-84936DE847EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DE926DB-0A5F-4CA5-8202-84936DE847EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DE926DB-0A5F-4CA5-8202-84936DE847EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DE926DB-0A5F-4CA5-8202-84936DE847EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F3948B6C-606A-42ED-AD7B-EBDB6BFD55CE}
+	EndGlobalSection
+EndGlobal
